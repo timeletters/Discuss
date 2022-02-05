@@ -12,7 +12,7 @@ This project started in 2018, and we will keep maintaining it until the earth is
 
 At the same time, I hope that you can support our project.
 
-# technology stack
+# Technology stack
 
 我们使用workerman开发后端，mysql作为数据存储，redis作为数据缓存。
 
@@ -26,7 +26,7 @@ Our Web is based on Reack Framework, App is based on Flutter Framework.
 
 We also developed a WeChat applet through uniapp.
 
-# developer
+# Developer
 
 目前，所有开发都由 [xcsoft][1] 进行
 
@@ -36,7 +36,7 @@ Currently, all development is carried out by [xcsoft][1]
 
 Most suggestions and product designs come from Changyu Mi.
 
-# contact 
+# Contact 
 
 您可以通过xcsoft#timeletters.cn与我们取得联系 (用@替换#)
 
