@@ -22,7 +22,7 @@ At the same time, I hope that you can support our project.
 
 We use workerman to develop backend api, mysql to store user data and Redis as data cache.
 
-Our Web is based on Reack Framework, App is based on Flutter Framework.
+Our Web is based on React Framework, App is based on Flutter Framework.
 
 We also developed a WeChat applet through uniapp.
 
