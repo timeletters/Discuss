@@ -30,11 +30,11 @@ We also developed a WeChat applet through uniapp.
 
 目前，所有开发都由 [xcsoft][1] 进行
 
-大多数建议和产品设计都来自糜怅屿。
+大多数建议和产品设计都来自怅屿。
 
 Currently, all development is carried out by [xcsoft][1]
 
-Most suggestions and product designs come from Changyu Mi.
+Most suggestions and product designs come from Changyu.
 
 # Contact 
 
