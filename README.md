@@ -30,11 +30,11 @@ We also developed a WeChat applet through uniapp.
 
 目前，所有开发都由 [xcsoft][1] 进行
 
-大多数建议和产品设计都来自怅屿。
+大多数建议和产品设计都来自[怅屿][2]。
 
 Currently, all development is carried out by [xcsoft][1]
 
-Most suggestions and product designs come from Changyu.
+Most suggestions and product designs come from [Changyu][2].
 
 # Contact 
 
@@ -44,9 +44,10 @@ You can contact us with xcsoft#timeletters.cn (replace # with @)
 
 # About this repo
 
-您可以[在这里][2]讨论相关问题
+您可以[在这里][3]讨论相关问题
 
 > This repo is used to discuss or give issues about Timeletter
 
 [1]: https://github.com/soxft
-[2]: https://github.com/timeletters/discuss/discussions
+[2]: https://github.com/michangyu
+[3]: https://github.com/timeletters/discuss/discussions
