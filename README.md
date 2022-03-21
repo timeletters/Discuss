@@ -14,7 +14,7 @@ At the same time, I hope that you can support our project.
 
 # Technology stack
 
-我们使用workerman开发后端，mysql作为数据存储，redis作为数据缓存。
+我们使用Workerman开发后端，MySQL作为数据存储，Redis作为数据缓存。
 
 我们的网站基于React框架，App基于Flutter框架。
 
