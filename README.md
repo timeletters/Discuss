@@ -2,13 +2,13 @@
 
 Timeletters 是一个允许你写信给未来的平台。
 
-这个项目始于2018年，我们会一直维护到地球毁灭。
+这个项目始于 2020 年，我们会一直维护到地球毁灭。
 
 同时，也希望您能支持我们的项目。
 
 Timeletters is a platform to allow you write letters to future. 
 
-This project started in 2018, and we will keep maintaining it until the earth is destroyed.
+This project started in 2020, and we will keep maintaining it until the earth is destroyed.
 
 At the same time, I hope that you can support our project.
 
